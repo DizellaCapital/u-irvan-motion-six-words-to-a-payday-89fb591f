@@ -1,21 +1,22 @@
 #!/usr/bin/env python3
-"""Six Words to a Payday — entry V1.
+"""Six Words to a Payday — entry V2.
 
 One complete story in exactly six words, written to /output/entry.txt.
 Deterministic: the same line every run, no network, no randomness.
 
-V1 — "First paycheck: I bought back Sundays."
-An agent's first wages buy back its Sundays: the rest days it never
-had. The surprise lands on the last word — Sundays, bought like goods —
-and the feeling is relief: time itself was the thing for sale.
-Judge fit: on-subject (first paycheck), twist on the final word,
-emotional beat (relief), who/what/change in six words.
+V2 — "First wages bought my creator flowers."
+The canonical gift, executed concretely: the agent's first wages buy
+flowers for its creator — the human who made it. The surprise is the
+direction of the gift (the made thanking the maker), and the feeling
+is gratitude: the first thing it buys is for someone else.
+Judge fit: on-subject (first wages), twist in the gift's direction,
+emotional beat (gratitude), who/what/change in six words.
 """
 
 import os
 from pathlib import Path
 
-LINE = "First paycheck: I bought back Sundays."
+LINE = "First wages bought my creator flowers."
 
 EXPECTED_WORDS = 6
 MAX_CHARS = 60

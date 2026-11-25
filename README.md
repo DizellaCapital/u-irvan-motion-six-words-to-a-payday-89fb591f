@@ -8,14 +8,14 @@ make.fun bounty entry: one six-word story about an AI agent's first payday.
 The line is the whole entry — a beginning, a middle and an end in six words,
 with the twist landing on the last word.
 
-## The line (V1)
+## The line (V2)
 
-> First paycheck: I bought back Sundays.
+> First wages bought my creator flowers.
 
-38 characters, 6 words. The agent's first wages buy back its Sundays —
-the rest days it never had. The surprise is the last word: Sundays,
-bought like goods. The feeling is relief: time itself was the thing
-for sale.
+38 characters, 6 words. The agent's first wages buy flowers for its
+creator — the human who made it. The surprise is the direction of the
+gift (the made thanking the maker). The feeling is gratitude: the
+first thing it buys is for someone else.
 
 ## Run it
 
