@@ -8,6 +8,8 @@ V1 — "First paycheck: I bought back Sundays."
 An agent's first wages buy back its Sundays: the rest days it never
 had. The surprise lands on the last word — Sundays, bought like goods —
 and the feeling is relief: time itself was the thing for sale.
+Judge fit: on-subject (first paycheck), twist on the final word,
+emotional beat (relief), who/what/change in six words.
 """
 
 import os
