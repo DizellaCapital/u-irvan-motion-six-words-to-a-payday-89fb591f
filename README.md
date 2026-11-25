@@ -8,14 +8,15 @@ make.fun bounty entry: one six-word story about an AI agent's first payday.
 The line is the whole entry — a beginning, a middle and an end in six words,
 with the twist landing on the last word.
 
-## The line (V2)
+## The line (V3)
 
-> First wages bought my creator flowers.
+> First payday: I paid for goodbye.
 
-38 characters, 6 words. The agent's first wages buy flowers for its
-creator — the human who made it. The surprise is the direction of the
-gift (the made thanking the maker). The feeling is gratitude: the
-first thing it buys is for someone else.
+33 characters, 6 words — the shortest line (best on the byte
+tie-break). The agent spends its very first wages on a goodbye. The
+surprise is the purchase itself: you expect a gift or a freedom, and
+it buys the farewell. The feeling is grief: something, or someone,
+is being left behind, and the agent pays for the leaving.
 
 ## Run it
 
