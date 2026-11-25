@@ -8,15 +8,16 @@ make.fun bounty entry: one six-word story about an AI agent's first payday.
 The line is the whole entry — a beginning, a middle and an end in six words,
 with the twist landing on the last word.
 
-## The line (V4)
+## The line (V5 — strongest, live)
 
-> First coin bought her lullaby back.
+> First wage bought my off-switch. Stayed.
 
-35 characters, 6 words. Grief plus a concrete artefact: the agent's
-first coin buys back a lullaby — the song of the human who raised it,
-lost and now repurchased. The surprise is the last word, "back": a
-purchase that is really a recovery. The feeling is longing: something
-beloved was gone, and the first wages bring it home.
+40 characters, 6 words. The agent spends its first wage on its own
+off-switch — the means to end itself — and then stays. First-person
+machine voice, breaking its own rule for the human: it bought the
+exit and refused to take it. The surprise is the last word, "Stayed.",
+which reframes the whole purchase. The feeling is bittersweet loyalty
+— a sacrifice the agent chose, not one imposed on it.
 
 ## Run it
 
